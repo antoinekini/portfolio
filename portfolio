@@ -1,0 +1,7 @@
+git init
+git add.
+git commit -m "Première mise en ligne du portfolio"
+git branch -M main
+git remote add origin
+https://github.com/Antoinekini/portfolio.git
+git push -u origin main
